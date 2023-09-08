@@ -1,4 +1,4 @@
-@echo off
+:: @echo off
 
 :: Fail early if environment not set
 if not defined BUILD_QMAKE exit /b 1
